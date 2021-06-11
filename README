@@ -1,0 +1,28 @@
+Plugin GIMP : YUV Transforms
+
+I.   What it does
+
+ It allows you to transform your RBG image in YUV, or your YUV image in RGB.
+
+II.  Use 
+
+ It adds menu items : 
+  Image/Colors/RGB->YUV
+  Image/Colors/YUV->RGB
+
+III. Installation
+
+ Linux:
+   make
+   make install
+
+   You will need the developpment packages of gimp and glib (libgimp2.0-dev, libglib2.0-dev).
+
+ Win32: 
+   binaries for win32 are provided, juste copy the files in your plugins directory, in your personal gimp directory (ex: C:\_gimp1.2\plug-ins)
+   You can compile it with Visual Studio, with the .dsp provided. This is not very easy because of all the libs needed.
+
+-- 
+Rémi Peyronnet
+remi.peyronnet@via.ecp.fr
+http://www.via.ecp.fr/~remi
