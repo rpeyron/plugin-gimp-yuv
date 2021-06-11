@@ -1,7 +1,7 @@
+[![CI](https://github.com/rpeyron/plugin-gimp-yuv/actions/workflows/main.yml/badge.svg)](https://github.com/rpeyron/plugin-gimp-yuv/actions/workflows/main.yml)
+
 # plugin-gimp-yuv
 GIMP plugin to convert RGB to YUV
-
-Plugin GIMP : YUV Transforms
 
 ## What it does
 
